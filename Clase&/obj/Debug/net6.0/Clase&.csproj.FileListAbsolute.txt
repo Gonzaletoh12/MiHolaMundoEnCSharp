@@ -1,0 +1,14 @@
+C:\Users\gbentancor\source\repos\MiHolaMundoEnCSharp\Clase&\bin\Debug\net6.0\Clase&.exe
+C:\Users\gbentancor\source\repos\MiHolaMundoEnCSharp\Clase&\bin\Debug\net6.0\Clase&.deps.json
+C:\Users\gbentancor\source\repos\MiHolaMundoEnCSharp\Clase&\bin\Debug\net6.0\Clase&.runtimeconfig.json
+C:\Users\gbentancor\source\repos\MiHolaMundoEnCSharp\Clase&\bin\Debug\net6.0\Clase&.dll
+C:\Users\gbentancor\source\repos\MiHolaMundoEnCSharp\Clase&\bin\Debug\net6.0\Clase&.pdb
+C:\Users\gbentancor\source\repos\MiHolaMundoEnCSharp\Clase&\obj\Debug\net6.0\Clase&.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbentancor\source\repos\MiHolaMundoEnCSharp\Clase&\obj\Debug\net6.0\Clase&.AssemblyInfoInputs.cache
+C:\Users\gbentancor\source\repos\MiHolaMundoEnCSharp\Clase&\obj\Debug\net6.0\Clase&.AssemblyInfo.cs
+C:\Users\gbentancor\source\repos\MiHolaMundoEnCSharp\Clase&\obj\Debug\net6.0\Clase&.csproj.CoreCompileInputs.cache
+C:\Users\gbentancor\source\repos\MiHolaMundoEnCSharp\Clase&\obj\Debug\net6.0\Clase&.dll
+C:\Users\gbentancor\source\repos\MiHolaMundoEnCSharp\Clase&\obj\Debug\net6.0\refint\Clase&.dll
+C:\Users\gbentancor\source\repos\MiHolaMundoEnCSharp\Clase&\obj\Debug\net6.0\Clase&.pdb
+C:\Users\gbentancor\source\repos\MiHolaMundoEnCSharp\Clase&\obj\Debug\net6.0\Clase&.genruntimeconfig.cache
+C:\Users\gbentancor\source\repos\MiHolaMundoEnCSharp\Clase&\obj\Debug\net6.0\ref\Clase&.dll

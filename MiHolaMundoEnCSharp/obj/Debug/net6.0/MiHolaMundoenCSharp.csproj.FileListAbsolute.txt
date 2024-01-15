@@ -1,0 +1,14 @@
+C:\Users\gbentancor\source\repos\MiHolaMundoenCSharp\MiHolaMundoenCSharp\bin\Debug\net6.0\MiHolaMundoenCSharp.exe
+C:\Users\gbentancor\source\repos\MiHolaMundoenCSharp\MiHolaMundoenCSharp\bin\Debug\net6.0\MiHolaMundoenCSharp.deps.json
+C:\Users\gbentancor\source\repos\MiHolaMundoenCSharp\MiHolaMundoenCSharp\bin\Debug\net6.0\MiHolaMundoenCSharp.runtimeconfig.json
+C:\Users\gbentancor\source\repos\MiHolaMundoenCSharp\MiHolaMundoenCSharp\bin\Debug\net6.0\MiHolaMundoenCSharp.dll
+C:\Users\gbentancor\source\repos\MiHolaMundoenCSharp\MiHolaMundoenCSharp\bin\Debug\net6.0\MiHolaMundoenCSharp.pdb
+C:\Users\gbentancor\source\repos\MiHolaMundoenCSharp\MiHolaMundoenCSharp\obj\Debug\net6.0\MiHolaMundoenCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbentancor\source\repos\MiHolaMundoenCSharp\MiHolaMundoenCSharp\obj\Debug\net6.0\MiHolaMundoenCSharp.AssemblyInfoInputs.cache
+C:\Users\gbentancor\source\repos\MiHolaMundoenCSharp\MiHolaMundoenCSharp\obj\Debug\net6.0\MiHolaMundoenCSharp.AssemblyInfo.cs
+C:\Users\gbentancor\source\repos\MiHolaMundoenCSharp\MiHolaMundoenCSharp\obj\Debug\net6.0\MiHolaMundoenCSharp.csproj.CoreCompileInputs.cache
+C:\Users\gbentancor\source\repos\MiHolaMundoenCSharp\MiHolaMundoenCSharp\obj\Debug\net6.0\MiHolaMundoenCSharp.dll
+C:\Users\gbentancor\source\repos\MiHolaMundoenCSharp\MiHolaMundoenCSharp\obj\Debug\net6.0\refint\MiHolaMundoenCSharp.dll
+C:\Users\gbentancor\source\repos\MiHolaMundoenCSharp\MiHolaMundoenCSharp\obj\Debug\net6.0\MiHolaMundoenCSharp.pdb
+C:\Users\gbentancor\source\repos\MiHolaMundoenCSharp\MiHolaMundoenCSharp\obj\Debug\net6.0\MiHolaMundoenCSharp.genruntimeconfig.cache
+C:\Users\gbentancor\source\repos\MiHolaMundoenCSharp\MiHolaMundoenCSharp\obj\Debug\net6.0\ref\MiHolaMundoenCSharp.dll
